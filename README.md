@@ -8,7 +8,6 @@ A comprehensive collection of Data Science notes and resources organized in Jupy
 
 - [Introduction](#introduction)
 - [Contents](#contents)
-  - [Python for Data Science](#python-for-data-science)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -27,8 +26,9 @@ This section contains detailed notes on various topics in Data Science.
 <details>
   <summary>Click to Expand Note Topics</summary>
   
-  1. **Python for Data Science**
-      1. [Python Basics](https://colab.research.google.com/drive/1GUH03BRz6HG4sm12Kq6ZFILS0HrtABGu?usp=sharing)
+  1. **Python for Data Science**  
+    1. <a href="https://colab.research.google.com/drive/1GUH03BRz6HG4sm12Kq6ZFILS0HrtABGu?usp=sharing" target="_blank">Python Basics</a>
+
 </details>
 
 ## Getting Started
