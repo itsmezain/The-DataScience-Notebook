@@ -26,8 +26,9 @@ This section contains detailed notes on various topics in Data Science.
 
 <details>
   <summary>Click to Expand Note Topics</summary>
+  
   1. **Python for Data Science**
-      - [Python Basics](/https://hub.ovh2.mybinder.org/user/itsmezain-the-d-cience-notebook-kkok8765/doc/workspaces/auto-3/tree/The-DataScience-Notebook/Lecture%201%20Python%20Basic/Python%20Basic.ipynb)
+      1. [Python Basics](https://colab.research.google.com/drive/1GUH03BRz6HG4sm12Kq6ZFILS0HrtABGu?usp=sharing)
 </details>
 
 ## Getting Started
