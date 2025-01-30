@@ -1,13 +1,12 @@
 Video number
-20 - How to build a portfolio website for Data Science 
+20 - How to build a portfolio website for Data Science (after the DSMP 1)
+56- Session on Resume Building (after the DSMP 1)
+57 + GUI crash course on YT (after the pandas)
+62,63 => Basic python ptoblems do if you are free
 _________________________________
-49,50 ==> 26 Jan
-
 -----------------------------------------------------------
-50 ==> 27 Jan
 51 ==> 28 Jan
-52,53 ==> 29 Jan
-54,55 ==> 30 Jan
-56,57 ==> 31 Jan
+53 ==> 29 Jan
+54,55,60,61 ==> 30 Jan
 58 ==> 1 Feb
 ------------------------------------------------------------
