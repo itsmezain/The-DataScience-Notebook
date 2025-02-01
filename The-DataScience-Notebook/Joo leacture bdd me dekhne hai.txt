@@ -1,12 +1,15 @@
-Video number
+		Video number
+	---------------------------------------------
 20 - How to build a portfolio website for Data Science (after the DSMP 1)
 56- Session on Resume Building (after the DSMP 1)
 57 + GUI crash course on YT (after the pandas)
-62,63 => Basic python ptoblems do if you are free
-_________________________________
+62,63 => Basic python problems (do it, if you are free)
 -----------------------------------------------------------
-51 ==> 28 Jan
-53 ==> 29 Jan
-54,55,60,61 ==> 30 Jan
-58 ==> 1 Feb
+-----------------------------------------------------------
+55,61 ==> 30 Jan
 ------------------------------------------------------------
+69 ==> 1 Feb
+70,76 ==> 2 FEB
+71 ==> 3 FEB
+73 ==> 4 FEB
+(72,77),(74,78) ==> 5 FEB
