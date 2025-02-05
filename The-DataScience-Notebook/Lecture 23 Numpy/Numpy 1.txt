@@ -1,0 +1,59 @@
+1- VS CODE NITISH note on Numpy overview
+2-		Why Numpy
+	-------------------------------------------
+Why numpy required? Histroy(we used matploin,R etc etc) - then surrendely someone makes a package called Numpy is coded in C, numpy array is a C data type but a wrapper a created to use it in python. Why so much hard work for this? bcz people understand it python is slow but its syntax is simple and more powerful.
+--> Numpy is the reason that why data science is possible on python.
+==> Many librareies are created with numpy like pandas, matplotlib ,skitlearn
+-------------------------------------------------------------
+3- Numpy Arrays Vs Python Sequences
+4- How this numpy array is written in C but works in python. I want detailing about it.
+5- 	       Creating Numpy Arrays
+	--------------------------------------
+1- Np arrays
+2- 2D and 3D
+3- dtype
+4- np.arange
+5- reshape
+6- np.ones()
+7- np.zeros()
+8- np.random.random()
+Use cases of 6,7,8 
+9- np.linspace()
+10- np.identity()
+-------------------------------------------------------------
+6-		Array Attributes
+	-------------------------------------------
+1-ndim
+2-shape
+3- size
+4- itemsize
+5- dtype
+--------------------------------------------------------------
+7- astype and its use case and benefits
+8- 		Arrays Opertions
+	--------------------------------------------
+1- Scaler operations:
+	- arithmetic 
+	- relational
+2- Vector opertions:
+	- arithmetic
+------------------------------------------------------------
+9-		Arrays Functions
+	-------------------------------------------
+1- Round
+2- max/min/sum/prod	=> whole array as well as col and row wise 
+3- mean/median/std/var => whole array as well as col and row wise 
+4- Trigonometric functions
+5- Dot product => how dot product is calculated
+6- log and expressions
+7- round/floor/ceil
+--------------------------------------------------------------
+10-		Indexing and slicing
+	------------------------------------------------
+1- Indexing in 1d,2d,3d then nd
+2- Slicing for 1d,2d,3d then nd
+-----------------------------------------------------------
+11- Iterating
+12- Reshape
+13- Stacking => use cases
+14- Spillting => use cases
