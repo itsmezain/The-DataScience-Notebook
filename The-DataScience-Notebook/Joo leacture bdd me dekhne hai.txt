@@ -6,9 +6,7 @@
 62,63 => Basic python problems (do it, if you are free)
 -----------------------------------------------------------
 -----------------------------------------------------------
-70,76 ==> 2 FEB
-71 ==> 3 FEB
-73 ==> 4 FEB
+76 ==> 2 FEB
 (72,77),(74,78) ==> 5 FEB
 ------------------------------------------------------------
-
+9 Feb ==> Handwritten notes complete of Numpy and Flask (only required to learn  notes).
