@@ -1,7 +1,8 @@
 	Hidden Numpy Functions
 ---------------------------------------------------------------
 1- np.sort
-2- np.appned( also studyhow to append and maintian array shape)
+2- np.argsort()
+2- np.appned( also study how to append and maintian array shape)
 3- np.Concatenate (also tell why use concatenate instead of stacking)
 4- np.unique
 5- np.expand_dims(use cases) (difference b/w reshape)
@@ -28,3 +29,5 @@
 21- np.unravel_index() => index baatane ke kaam aata hai
 22- np.ravel()
 23- np.repeat()
+24- np.broadcast_to()
+25- np.any()
