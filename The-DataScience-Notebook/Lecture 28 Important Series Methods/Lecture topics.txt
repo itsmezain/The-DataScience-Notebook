@@ -1,0 +1,15 @@
+1- astype
+2- between
+3- clip
+4- drop_attributes
+5-  duplicated
+6- isnull()
+7- dropna
+8- fillna
+9- isin
+10- apply
+12- Copy vs View
+11- copy
+
+
+Use cases of all the aboce methods

@@ -16,7 +16,7 @@ Why numpy required? Histroy(we used matploin,R etc etc) - then surrendely someon
 5- reshape
 6- np.ones()
 7- np.zeros()
-8- np.random.random()
+8- np.random
 Use cases of 6,7,8 
 9- np.linspace()
 10- np.identity()

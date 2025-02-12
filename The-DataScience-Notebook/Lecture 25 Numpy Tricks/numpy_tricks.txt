@@ -31,3 +31,4 @@
 23- np.repeat()
 24- np.broadcast_to()
 25- np.any()
+26- np.resize()
