@@ -1,0 +1,58 @@
+1- What is DataFrame? Differnce from Data Series and how multiple Data Series makes up a Data Series.
+==> every col and every rows in a Data Frame is a Data Series
+
+2-		Creating DataFrame
+	--------------------------------------------
+i) using lists
+ii) using dicts
+iii) using read_csv
+
+3-	DataFrame Attributes and Methods
+i)shape
+ii)dtypes
+iii)index
+iv)columns
+v)values
+vi)head and tail()
+vii)sample() => use cases
+viii)info()
+viii)describe()
+ix)isnull()
+x)duplicated()
+xi)rename()
+
+
+3- 	Mathematical Methods
+	---------------------------
+i) sum/prod => axis parameter
+ii) mean/std/var/median/mode
+iii) max/min
+iv) 
+
+4- 	Selecting cols from a DataFrame 
+---------------------------------------------------------------
+-- single cols
+-- multiple cols
+
+
+5-	Selecting rows from a DataFrame
+--------------------------------------------------------------
+==> iloc - searches using index positions
+==> loc - searches using index labels
+set_index()
+
+When use iloc and loc?
+
+6- 	Selecting both rows and cols
+---------------------------------------------------------------
+
+7- Filtering a DataFrame (basic to advanced question)
+
+8- 	Adding new cols
+	--------------------
+i)completely new
+ii)from existing ones
+
+9-	 Dataframe function
+i)astype
+ii) category in pandas
