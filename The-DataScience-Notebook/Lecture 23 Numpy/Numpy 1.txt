@@ -9,13 +9,13 @@ Why numpy required? Histroy(we used matploin,R etc etc) - then surrendely someon
 4- How this numpy array is written in C but works in python. I want detailing about it.
 5- 	       Creating Numpy Arrays
 	--------------------------------------
-1- Np arrays
-2- 2D and 3D
-3- dtype
-4- np.arange
-5- reshape
-6- np.ones()
-7- np.zeros()
+1- Np arrays ✔
+2- 2D and 3D ✔
+3- dtype ✔
+4- np.arange ✔
+5- reshape ✔
+6- np.ones() ✔
+7- np.zeros() ✔
 8- np.random
 Use cases of 6,7,8 
 9- np.linspace()

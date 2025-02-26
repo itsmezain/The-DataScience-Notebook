@@ -54,5 +54,5 @@ i)completely new
 ii)from existing ones
 
 9-	 Dataframe function
-i)astype
+i) astype
 ii) category in pandas
