@@ -16,10 +16,10 @@ Why numpy required? Histroy(we used matploin,R etc etc) - then surrendely someon
 5- reshape ✔
 6- np.ones() ✔
 7- np.zeros() ✔
-8- np.random
+8- np.random ✔
 Use cases of 6,7,8 
-9- np.linspace()
-10- np.identity()
+9- np.linspace() ✔
+10- np.identity() ✔
 -------------------------------------------------------------
 6-		Array Attributes
 	-------------------------------------------
@@ -45,8 +45,8 @@ Use cases of 6,7,8
 3- mean/median/std/var => whole array as well as col and row wise 
 4- Trigonometric functions
 5- Dot product => how dot product is calculated
-6- log and expressions
-7- round/floor/ceil
+6- log and Exponential 
+7- round/floor/ceil/np.trunc()
 --------------------------------------------------------------
 10-		Indexing and slicing
 	------------------------------------------------
@@ -55,5 +55,7 @@ Use cases of 6,7,8
 -----------------------------------------------------------
 11- Iterating
 12- Reshape
+Transpose
+ravel
 13- Stacking => use cases
 14- Spillting => use cases

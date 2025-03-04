@@ -1,6 +1,14 @@
 {
     "cSpell.words": [
+        "dropna",
+        "hamesha",
+        "ipynb",
+        "jsonify",
+        "karta",
         "kolkata",
-        "subarray"
-    ]
+        "subarray",
+        "teamvsteam"
+    ],
+    "jupyter.interactiveWindow.notebookRepl": true,
+    "python.globalModuleInstallation": true
 }
