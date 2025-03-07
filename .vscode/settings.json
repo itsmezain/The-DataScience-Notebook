@@ -2,7 +2,9 @@
     "cSpell.words": [
         "dropna",
         "endfor",
+        "fillna",
         "hamesha",
+        "iloc",
         "ipynb",
         "jsonify",
         "karta",
