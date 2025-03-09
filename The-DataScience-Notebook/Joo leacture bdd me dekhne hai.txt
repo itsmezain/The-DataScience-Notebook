@@ -1,3 +1,4 @@
+
 		Video number
 	---------------------------------------------
 20 - How to build a portfolio website for Data Science (after the DSMP 1)
@@ -5,8 +6,8 @@
 57 + GUI crash course on YT (after the pandas)
 62,63 => Basic python problems (do it, if you are free)
 -----------------------------------------------------------
+		Backlog
 -----------------------------------------------------------
-7 Mar => Task 18, lecture notes 24, 25
-8 Mar => Lecture notes 26,27,28
+8 Mar => Lecture notes 24, 25,26,27,28
 9 Mar => Lecture notes 29,30,31,32
-------------------------------------------------------------
+-----------------------------------------------------------
