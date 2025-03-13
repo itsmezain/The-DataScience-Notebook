@@ -1,0 +1,25 @@
+1-			GroupBy
+	---------------------------------------------------------
+i) Defination
+ii) How to use and its return type, also using aggreation function with group objects
+
+iii) Using groupby we are solving some questions on the imbd top 1000 movies dataset
+
+iv)  GroupBy Attributes and Methods:
+	a) len
+	b) size
+	c) first()/last()
+	d) get_group
+	e) groups
+	f) describe
+	g) sample
+	h) nunique
+
+v) The agg method and why we need it, using method synxtax method to use agg
+
+vi) Looping a DataFrameGroup and when to use it 
+
+vii) split (apply) combine
+     apply -> builtin function
+
+viii) GroupBy on Multiple Columns => agg on multiple groupby
