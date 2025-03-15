@@ -1,0 +1,34 @@
+1-	Numpy array vs Python list
+          --------------------------------------------
+i) speed => list and numpy array
+ii) memory
+iii) convenience
+
+2- 	 Advanced Indexing
+	------------------------
+i) Fancy Indexing
+
+ii) Boolean indexing: (and some questions on it)
+
+3- 	 Broadcasting
+	-----------------
+i) Same shape
+ii) diff shape
+
+Broadcating Rule
+Braodcasting many examples in detail
+
+4- 	Working with mathematical formulas
+	---------------------------------------------
+i) sigmoid
+ii) mean square error
+iii) categorical cross entropy
+5- Working with missing value in numpy using np.nan and difference b/w nan and None 
+==> how to remove all nan values 
+6-	Plotting Graphs(using matplotlib in numpy) 
+	-------------------
+i) x = y
+ii) y = x^2
+iii) y = sin(x)
+iv) y = x * log(x)
+v) plotting a sigmoid graph
