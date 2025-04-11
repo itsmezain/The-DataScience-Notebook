@@ -1,0 +1,53 @@
+1-		Non linear development(Branching)
+	---------------------------------------------------------------
+i) Scenario (Individual)
+ii) Scenario (Team)
+iii) Using branches -> You had one branch already
+iv) concept of head pointer
+v) Creating branches on head
+vi) Creating branches on past commits
+vii) Show all branches -> Active Branch
+viii) Switch between branches -> How this works?
+ix) Understanding what will come under a branch (git log)
+x) Making new commits in all branches(git log)
+xi) see all branches at once -> --graph --all
+xii) deleting branches
+*******************************************************************
+2-			Merging Branches
+		---------------------------------------------
+i) What is merging
+ii) What happens at merging :
+	**A new commit is created on merging
+	** look at the branches that it's going to merge
+	** look back along the branch's history to find a single commit that both branches have in their commit history
+	** combine the lines of code that were changed on the separate branches together
+	** makes a commit to record the merge
+	** Note - Merging happens at the checked out branch. No new branches are created
+iii) Types of merging -> Fast Forward -> Regular(Divergent branches)
+	-> Fast Forward -> show log
+	-> Merging Divergent Branches -> show log
+iv) Merge Conflict :
+(<<<<<<< HEAD) everything below this line (until the next indicator) is code of current branch
+
+(=======) is the end of the original lines, everything that follows (until the next indicator) is what's on the branch that's
+being merged in
+
+(>>>>>>> heading-update) is the ending indicator of what's on the branch that's being merged in
+v) Resolving Conflicts
+******************************************************************
+3-			Undoing Changes
+		------------------------------------------
+i) editing the last commit message
+ii) forgot to add some files to the last commit
+iii) rolling back to a specific state using show
+iv) revert a commit
+*******************************************************************
+4-		Working with a remote repo
+	----------------------------------------------------
+i) Need -> scenario-> collaboration
+ii) The flow diagram
+iii) create a new repo on github
+iv) add remote(git remote add origin <url>)
+v) push code(git push <remote-shortname> <branch-name>)
+vi) git log-> tracking branch
+vii) add a readme file
