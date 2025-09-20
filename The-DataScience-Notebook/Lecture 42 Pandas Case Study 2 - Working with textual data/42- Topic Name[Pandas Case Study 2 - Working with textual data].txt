@@ -1,0 +1,25 @@
+1- NLP analysis on IMDB dataset, sb kuch bss model bannane se phle
+2- Cleaning the IMDB dataset:
+	i) lower casing
+	ii) removing leading and trailing spaces
+	iii) removing htmls tage
+	iv) removing urls
+ 	v) Expanding abbrevations
+	vi) removing extra white spaces
+	vii) spelling correction
+	viii) removing puctuations
+	ix) remove special characters
+3- Data Preprocessing:
+	i) Tokenization
+	ii) removing stopwords
+4- EDA and Feature Engineering:
+	i) Are labels balanced? (Positive vs Negative).
+	ii) Creating Text Length Feature
+	iii) Creating Word Length Feature
+	iv) unigram/ bigrams/trigrams
+5- Vectorization:
+	i) BoW
+6- Additonals:
+	i) PCA
+	ii) Stemming
+	iii) POS tagging (Part of speech)
