@@ -1,0 +1,33 @@
+1- 2d line plot in matplotlib:
+	i) How to plot
+	ii) Plot title 
+	iii) graph color
+	iv) linestyle and linewidth
+	v) marker
+	vi) legend and its location
+	vii) xlim and ylim
+	viii) grid()
+	ix) show() 
+2- Scatter Plot:
+	i) How to plot it and all other things as 2d plot
+	ii) s and other parameter and using it to display more information
+	iii) scatterplot using plt.plot and when to use it and why to use it, 
+	iv) plt.plot() vs plt.scatter for scatter plots
+	
+3- Bar Chart:
+	i) How to plot
+	ii) width, color, horizontal bar chart
+	iii)Grouped Bar chart
+	iv)plt.xticks() & plt.tight_layout() & rotationn in xticks
+	v)stacked bar chart & bottom parameter
+4- Histogram:
+	i) How to plot it
+	ii) bins (auto, manuals)
+	iii)log scale
+5- Pie Chart 
+	i) how to plot it and label them and calculation behind it
+	ii)labels
+	iii) autopct
+	iv) colors, explode, shadows
+6- Changing styles
+7- Saving a figure
