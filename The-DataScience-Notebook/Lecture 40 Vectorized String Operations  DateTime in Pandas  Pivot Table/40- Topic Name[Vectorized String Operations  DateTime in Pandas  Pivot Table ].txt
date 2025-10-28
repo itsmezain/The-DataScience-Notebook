@@ -1,8 +1,0 @@
-1- Pivot table -> aggfunc ->  pivot table parameters
-2- Plotting graphs from pivot table
-3- What is str function in pandas and why str
-4- using str funtion with different string methods on titanic dataset
-5- Timestamp object in pandas
-6- DatetimeIndex 
-7- date_range function
-8- to_datetime function

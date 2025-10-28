@@ -1,64 +1,34 @@
-# ========================
-# Python / Data Science Notebook .gitignore
-# ========================
-
-# --- Python compiled / cache files ---
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-*.py.class
-
-# --- Jupyter Notebook checkpoints & autosaves ---
-.ipynb_checkpoints/
-*.ipynb_checkpoints/
-
-# --- Virtual environments ---
-venv/
-.env/
-env/
-.venv/
-ENV/
-env.bak/
-venv.bak/
-
-# --- IDE / Editor settings ---
-.vscode/
-.idea/
-*.sublime-workspace
-*.sublime-project
-
-# --- System files ---
+# === Ignore system and environment files ===
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# --- Logs ---
-*.log
-logs/
-
-# --- Environment / Config files (keep your secrets safe) ---
+.env
 *.env
-*.ini
-*.cfg
-*.toml
 
-# --- Temporary or experimental notebooks ---
-Untitled*.ipynb
-*.tmp.ipynb
+# === Ignore Python cache & build artifacts ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
 
-# --- Backup files ---
-*.bak
-*.backup
-*.swp
-*~
+# === Ignore Jupyter notebook checkpoints ===
+.ipynb_checkpoints/
 
-# --- Jupyter extensions / nbextensions cache ---
-.jupyter/
-nbextensions/
-.ipython/
-profile_default/
-
-# --- PyCharm or JetBrains cache ---
+# === Ignore IDE/project settings ===
+.vscode/
 .idea/
-.cache/
+*.swp
+
+# === Ignore logs and temporary files ===
+*.log
+*.tmp
+
+# === Keep these file types ===
+# (We do NOT ignore .csv, .png, .txt, .ipynb, .py)
+!*.csv
+!*.png
+!*.txt
+!*.ipynb
+!*.py

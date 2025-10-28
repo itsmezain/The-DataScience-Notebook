@@ -1,9 +1,0 @@
-1- Timedelta object
-2- finding average deliver time to deliever a thing in Deleviery dataset
-3- Time Series
-4- Time Series analysis on Google Stock and Youtube dataset
-5- frequency (asfreq) with parameter
-6- Resampling => upsampling and downsampling
-7- Rolling window (smoothing)
-8- Shifting
- 
