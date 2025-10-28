@@ -1,0 +1,55 @@
+1- What is streamlit?
+2- Main benefit of using Streamlit?
+3- Use case in a Data Professsional's Life
+4- Techincal side of Streamlit (behind the scene how streamlit works)
+5- Flask Vs Streamlit
+
+6.0 => First create a .py and install streamlit and inport it and then use st.title to set the title and use streamlit run your_file_name to run the file
+
+6-		Text Utility (aka Text widgets)
+	------------------------------------------
+i) tiltle => Title de skte ho
+ii) header => Heading ke liye use hota hia
+iii) subheader => Subheading ke liye use hota hia
+iv) write => Normal text ko display karne ke liye hota hai
+v) markdown => Markdown ko rendere karne ke liye hota hai
+vi) code => Code ko block me display karne ke liye use karte hai
+vii) Latex => Latex ko render karne ke liye use karte hai mainly math equation print karne ke liye
+
+7-		Display Elements
+	------------------------------------------
+i) DataFrames => pandas ka dataframe table ke form me display karte hai isme
+ii) Metrics => Websites ke metrics card ke form me display 
+iii) JSON => JSON data ko display karne ke liye
+
+8-		Display Media
+	----------------------------------------
+i) Image => image ko display karne ke liye
+ii) Video => video ko play karne ke liye
+iii) audio => audio file ko play karne ke liye
+
+9-		Creating Layout
+	------------------------------------------
+i) sidebar => website ka side bar bannane ke liye
+ii) columns => ek row me multiple cheeze(columns) display karne ke liye
+
+10- 		Showing status
+	------------------------------------------
+i) Progress Bar
+ii) Error message -> sucess -> warning -> info -> 
+
+11-		Taking user input
+	----------------------------------------
+i) text input -> number input -> data input
+ii) Button -> baloons
+iii) Dropdown
+iv) File uploader
+
+
+12- Using CSS in streamlit
+13- Routuing 
+
+14- Other important in the Streamlit
+
+------------------------------------------------------------------------------
+15- Indian Startup DashBoard structure

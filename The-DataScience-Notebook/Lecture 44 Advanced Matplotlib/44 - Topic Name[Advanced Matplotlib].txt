@@ -1,0 +1,28 @@
+1- Matplot Tricks:
+  i) Colored Scaterplots:
+	a) c & cmaps parameter
+	b) plt.colorbar()
+	c) aplha()
+
+  ii)plot size => plt.figure( figsize = ( 12,7))
+  iii)Annotations => plt.text() and its useage in scatter plot
+  iv)Horizontals and Verticals lines
+2- Sub plots:
+  i) what subplot returns and calling them indivaually
+  ii) set_title/set_xlabel,set_ylabel, plt.show()
+  iii) How to plot multiple plots in 1 graph
+  iii) sharex = True
+  iv) Third way to plo the graphs using plt.figure and fig.add_subplots()
+3- 3d plots:
+  i) 3D Scatter plots
+  ii) 3D line plots
+  iii) 3D surface plots
+  iv) Contour plkot
+4- Heat map
+5- Pandas plot
+  i) On the series and on the dataframe 
+  ii) Scatter and line on the dataframe and its parameter on df.plot()
+  iii) bar chart, stacked bar chart
+  iv) histogram & pie chart
+  v)  subplots using df.plot()
+  vi) Multiindex dataframe

@@ -1,0 +1,45 @@
+1- What is GIT
+2- What is VCS (Version Control System)/SCM (Source Code Manager)
+3- Example of VCS
+4- Why git/VCS is needed
+5- Types of VCS: 
+	i) Centralized
+	i) Distributed
+6- Advantages:
+	i) Version control
+	ii) Bug Fixing
+	iii) doing non-linear development
+	iv) Collaborative development
+******************************************************
+7- How git works with flowchart ? => terminology
+******************************************************
+8- Creating a repo
+9- Cloning Someone else's repo
+10- Status
+*******************************************************
+11-		Making Changes
+	------------------------------------------
+	i) add file_name
+	ii) commit
+	iii) When to commit?
+	iv) Commint messages? :
+		- short - Explain what - rule of thumb no and
+		- This commit will...
+	v) add .
+	vi) .gitignore
+*******************************************************************
+12-		Seeing commits
+	----------------------------------------
+	i) log -> oneline -> stat -> p
+	ii) show
+	iii) seeing commits of someone else's repo
+	iv) diff
+*******************************************************************
+13-		Creating versions of a software
+	------------------------------------------------------------
+	i) tag -> X,Y,Z
+	X -> The major version, used for making major and backward incompatible changes
+	Y -> The minor version, used for adding functionality while maintaining backwards compatibility.
+	Z -> The patch version, used for making small bug fixes while mainting backwards compatibility.
+	ii) deleting tag
+	iii) adding tag to a past commit

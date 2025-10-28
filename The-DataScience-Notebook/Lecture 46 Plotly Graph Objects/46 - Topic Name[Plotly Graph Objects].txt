@@ -1,0 +1,48 @@
+1- Scatter Plot using GO
+	
+2- Plots customization:
+	i) title
+	ii) xaxis & yaxis with tickangle and other
+	iii) hovertext
+	iv) color and showscale
+	v) opacity
+	vi) line
+	vii) size 
+	viii) symbol
+	ix) text and hovertemplate
+	x) uniformtext_minsize and uniformtext_mode
+	xi) opacity
+	xii) update_layout
+	xiii) bin and bin_size
+
+3- Line Chart:
+	i) modes in scatterplot (lines and markers+lines)
+	ii) multiple lines charts using 2 trace
+	iii) name
+
+4- Bar Graph:
+	i) bar gap
+	ii) Overlay bar graph
+	iii) Stacked bar graph
+	iv) Grouped bar graph 
+	v) text position
+
+5- Bubble Plot
+
+6- Box plot:
+	i) how to plot
+	ii) how to plot 2 box plot on one graph
+
+7- Distplot:
+	i) Theory and what it contains, about rough plot
+	ii) how to plot it
+	iii) its improved version
+	iv) how to plot multiple histplots
+
+8- Histrograms:
+	i) how to plot
+	ii) xbins: start, end, size
+ 9- Heatmaps:
+	i) how to plot 
+	iii) improved heatmap
+	iii) plotitng 2 heatmap side by side
