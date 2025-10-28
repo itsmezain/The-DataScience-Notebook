@@ -1,1 +1,82 @@
+# ----------------------------
+# Python & Jupyter Notebook Git Ignore
+# ----------------------------
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VSCode / IDE settings
 .vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# Jupyter runtime files
+.jupyter/
+.profile_default/
+.ipython/
+
+# Python egg and packaging files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+coverage.xml
+*.prof
+*.dat
+
+
+# Jupyter notebook temporary files
+*.nbconvert.ipynb
+*.nbconvert/
+*.nb.html
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment and dependency files (optional backups)
+*.bak
+*.swp
+*.tmp
+*.temp
+~$*
+
+# ----------------------------
+# End of .gitignore
+# ----------------------------
