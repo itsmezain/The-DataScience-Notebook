@@ -45,4 +45,4 @@
  9- Heatmaps:
 	i) how to plot 
 	iii) improved heatmap
-	iii) plotitng 2 heatmap side by side
+	iii) plotitng 2 heatmap side by side (using tools)
