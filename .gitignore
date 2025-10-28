@@ -26,9 +26,11 @@ dist/
 *.tmp
 
 # === Keep these file types ===
-# (We do NOT ignore .csv, .png, .txt, .ipynb, .py)
+# (We do NOT ignore .csv, .png, .txt, .ipynb, .py, .pdf
+)
 !*.csv
 !*.png
 !*.txt
 !*.ipynb
 !*.py
+!*.pdf
