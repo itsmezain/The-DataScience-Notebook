@@ -1,82 +1,64 @@
-# ----------------------------
-# Python & Jupyter Notebook Git Ignore
-# ----------------------------
+# ========================
+# Python / Data Science Notebook .gitignore
+# ========================
 
-# Byte-compiled / optimized / DLL files
+# --- Python compiled / cache files ---
 __pycache__/
 *.py[cod]
-*$py.class
+*.pyo
+*.pyd
+*.py.class
 
-# Jupyter Notebook checkpoints
+# --- Jupyter Notebook checkpoints & autosaves ---
 .ipynb_checkpoints/
+*.ipynb_checkpoints/
 
-# Virtual environments
+# --- Virtual environments ---
 venv/
+.env/
 env/
 .venv/
 ENV/
 env.bak/
 venv.bak/
 
-# VSCode / IDE settings
+# --- IDE / Editor settings ---
 .vscode/
 .idea/
-.spyderproject
-.spyproject
+*.sublime-workspace
+*.sublime-project
 
-# Jupyter runtime files
-.jupyter/
-.profile_default/
-.ipython/
-
-# Python egg and packaging files
-*.egg
-*.egg-info/
-dist/
-build/
-eggs/
-parts/
-sdist/
-develop-eggs/
-.installed.cfg
-lib/
-lib64/
-
-# Logs and debug files
-*.log
-*.out
-*.err
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-*.cover
-*.py,cover
-.cache
-nosetests.xml
-coverage.xml
-*.prof
-*.dat
-
-
-# Jupyter notebook temporary files
-*.nbconvert.ipynb
-*.nbconvert/
-*.nb.html
-
-# OS-specific files
+# --- System files ---
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Environment and dependency files (optional backups)
+# --- Logs ---
+*.log
+logs/
+
+# --- Environment / Config files (keep your secrets safe) ---
+*.env
+*.ini
+*.cfg
+*.toml
+
+# --- Temporary or experimental notebooks ---
+Untitled*.ipynb
+*.tmp.ipynb
+
+# --- Backup files ---
 *.bak
+*.backup
 *.swp
-*.tmp
-*.temp
-~$*
+*~
 
-# ----------------------------
-# End of .gitignore
-# ----------------------------
+# --- Jupyter extensions / nbextensions cache ---
+.jupyter/
+nbextensions/
+.ipython/
+profile_default/
+
+# --- PyCharm or JetBrains cache ---
+.idea/
+.cache/
