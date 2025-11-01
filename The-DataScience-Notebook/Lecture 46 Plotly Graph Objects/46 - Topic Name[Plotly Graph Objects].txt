@@ -11,9 +11,8 @@
 	viii) symbol
 	ix) text and hovertemplate
 	x) uniformtext_minsize and uniformtext_mode
-	xi) opacity
-	xii) update_layout
-	xiii) bin and bin_size
+	xi) update_layout
+	xii) bin and bin_size
 
 3- Line Chart:
 	i) modes in scatterplot (lines and markers+lines)

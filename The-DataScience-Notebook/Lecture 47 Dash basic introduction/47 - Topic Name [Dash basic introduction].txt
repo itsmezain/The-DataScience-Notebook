@@ -1,0 +1,7 @@
+1- Dash basic from the (https://dash.plotly.com/dash-core-components)
+
+2- In first part understand the imports for using dash, like dash, html, dcc
+
+3- Making simple Hello World website using Dash and styling it using the css
+
+4- Making 3 div, divided by the border and add heading in the first heading and 2 visulaization in the next 2 visualization
