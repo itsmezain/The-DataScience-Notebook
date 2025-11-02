@@ -1,0 +1,11 @@
+1- Import all the libraries and link the css to the style.css by making assets/style.css file and link the bootstrap using dcc or url
+
+2- UI designing using Bootstrap" 3 rows will be there in the website using div, 1 row will contain 4 div, 2nd row will contain 2 col and 3rd row will contain 1 div
+
+2.1- Apply Bootstrap using modern way dbc.row, dbc.col like this
+
+3- In the 1st row, after creating 4 div, create card div then card body div (because css works in this way)
+
+4- Import the coronavirus dataset and then calculate total, recoverd, active cases and then display them to the frontend.
+
+5- On the third row of the website, create a dropdown user can select between the ['All', 'Hospitalized', 'Recovered', 'Deceased'], after that using dcc.Graph display the graph to frontend.
