@@ -1,0 +1,25 @@
+1- Facet plot:
+	i) Can you create facet rows even
+	ii) facet plot on different dataset and differnt plots
+	iii) using facet_col_wrap and other differnet parameters
+	iv) different between subplot and facet plot
+
+2- 3d surface plot
+
+3- Contour Plot
+
+4- Subplots
+
+----------------------------------------------------------------------
+Plotly gives support geographical graphs on map even matplotlib does not support this, and our project will be on this
+
+1- Firstly, download the datasests.
+
+2- Import the dataset and check for null and duplicaterd values afterthat filter the useful columns for the plots and Derived other useful columns.
+
+3- Export the dataset into the csv
+
+4- Now, start creating the app.py file:
+	i) import the libraries
+	ii) creat the ui in which there will be sidebar with two dropdown, using the dataset fill the values into the dropdown menu.
+	iii)

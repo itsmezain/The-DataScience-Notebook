@@ -9,3 +9,13 @@
 4- Import the coronavirus dataset and then calculate total, recoverd, active cases and then display them to the frontend.
 
 5- On the third row of the website, create a dropdown user can select between the ['All', 'Hospitalized', 'Recovered', 'Deceased'], after that using dcc.Graph display the graph to frontend.
+
+6- Deploy the Dash app using GitHub, steps:
+	i) first gitinit on folder
+	ii) then git add .
+	iii) git commit -m "Initial commit - Dash Dashboard"
+	iv) Create a new empty GitHub repo
+	v) Connect local folder to GitHub repo: git remote add origin https://github.com/ali-zain/covid-dashboard.git
+	vi) git pull origin main --allow-unrelated-histories
+	    git branch -M main
+	    git push -u origin main

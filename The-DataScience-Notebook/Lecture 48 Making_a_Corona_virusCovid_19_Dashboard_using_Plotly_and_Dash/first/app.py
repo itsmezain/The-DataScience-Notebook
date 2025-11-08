@@ -5,10 +5,11 @@ import plotly.graph_objs as go
 import plotly.express as px
 from dash import Dash, html, dcc, Input, Output
 import dash_bootstrap_components as dbc
+import os
 
 # Importing the dataset
-patients = pd.read_csv(
-    r'C:\All Things\2- Coding\DSMP CODEs\The-DataScience-Notebook\Lecture 48 Making_a_Corona_virusCovid_19_Dashboard_using_Plotly_and_Dash\IndividualDetails.csv')
+csv_path = os.path.join(os.path.dirname(__file__), 'IndividualDetails.csv')
+patients = pd.read_csv(csv_path)
 
 # Making cards data
 total_cases = patients.shape[0]
@@ -18,6 +19,7 @@ death = patients[patients['current_status'] == 'Deceased'].shape[0]
 
 # Initialize the Dash app
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 # Creating website layout(UI)
 app.layout = dbc.Container(
@@ -76,7 +78,7 @@ app.layout = dbc.Container(
                         color="success",
                         inverse=True
                     ), width=3)
-            ]
+            ], style={'padding': 8, 'margin': 15}
         ),
 
         dbc.Row([]),
