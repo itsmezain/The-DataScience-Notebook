@@ -1,0 +1,35 @@
+1- Categorical Plot (theory):
+	
+	a) Categorical Scatter Plot (theory, when to use them):
+	    i) Strip plot (theory), jitter, hue parameter
+	    ii) Swarm plot (theory)
+	
+	b) Categorical Disribution Plots (theory)
+	    i) Box plot (theory), how to plot it, hue, facet plot
+	    ii) Violint plot (theory), how to pot it, hue, split
+
+	c) Categorical Estimare plots (theory):
+	    i) Bar plot (theroy), how to plot it, error bar, hue, 	       estimator (mean,mdain, std dev, min, max, etc.)
+
+	    ii) Point Plot (theory), how to plot, error bar, hue, 		        estimator (mean,mdain, std dev, min, max, etc.)
+
+	    iii) Count plot (theory) and others things
+	    iv) Faceting plot
+
+2- Regression Plot (theory):
+	i) how to plot, axes and figure level function, hue parameters, others ways to improve the plot.
+
+	ii) residplot (theory), how to plot it and other things
+
+3- Multi plots (theory):
+	a) facet grid (theory), differnece between row,col facet plot, when to use which one
+	
+	b) pairplot (theory), code, hue
+	c) pairGrid (thoery), differnce than pairplot, when to use it, using map_diag, map_offdiag, map_upper, map_lower and other parameter in the PairGrid
+
+	d) Joint Grid:
+	   i) Jointplot (theory), how to plot, when to use it, code, hue and kind and other parameter
+	   ii) JointGrid (thoery), difference, when to use it, code, hue and other parameters
+
+4- Ulitily functions
+5- Themes, colors and others things and settings in seaborn

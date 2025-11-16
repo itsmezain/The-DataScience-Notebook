@@ -1,0 +1,43 @@
+1- Why study seaborn when we have maplotlib ?
+2- Hierarchy of objects in matplotlib and hierarchy of object in seaborn? Their connection and theor detail?
+	> Who seaborn allows to plot same graph using 2 different functions.
+3- Main classification of graphs in Seaborn (theory): (see the pic for reference in lecture floder)
+- Relational Plot 
+- Distribution Plot
+- Matrix Plot
+- Categorical Plot
+- Regression Plot
+- Multiplots
+
+4- When to use axes function and when to use figure function
+4.1- Changing height, weight and Aspect of the fugure function and axes function
+
+5- Relational Plots (theory):
+	i) Scatter plot using axes and figure functions
+	ii) hue, style, size & others  parameter
+	
+	iii) Line plot and its parameters in axes function and in figure level function
+	iv) Who axes and figure function handles the legend, the axes function show legned inside the plot and otherwise.
+
+	v) Facet plot (make multiple plots based on the categories in the columns)
+	
+	vi) Facet plot (col wrap) and others things about facet plots
+
+6- Distributions plots (theory):
+	i) histrogram using axes and figure level 
+	ii) bins, hue, elements, faceting  parameters
+
+	iii) kdeplot: theory and how to plot it
+	iv) hue and hue_fill and facet plot
+
+	v) rug plot theory and its parameters
+
+	vi) Bivariate histogram 
+	vii) Bivariate kdeplot with fill
+
+7- Matrix plots (theory):
+	i)Heatmap (there's no figure function), size change
+	ii) linewidth, linecolor, cmap
+	
+	iii) Clustermap (theory,use), code
+	

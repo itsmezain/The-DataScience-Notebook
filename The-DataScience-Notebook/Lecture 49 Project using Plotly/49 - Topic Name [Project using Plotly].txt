@@ -21,5 +21,7 @@ Plotly gives support geographical graphs on map even matplotlib does not support
 
 4- Now, start creating the app.py file:
 	i) import the libraries
-	ii) creat the ui in which there will be sidebar with two dropdown, using the dataset fill the values into the dropdown menu.
-	iii)
+	ii) create the ui in which there will be sidebar with 3 dropdown, using the dataset fill the values into the dropdown menu.
+	iii) then in the first dropdown there is 2 condition if user select the India or the specific state, for this use if else.
+	iv) If the user select India show the data for all the state and districts 
+	v) if the user select specific state then filter the dataframe and then plot the map for that specific state.
