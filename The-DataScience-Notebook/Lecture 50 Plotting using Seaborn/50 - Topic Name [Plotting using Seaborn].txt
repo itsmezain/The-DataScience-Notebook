@@ -1,6 +1,8 @@
-1- Why study seaborn when we have maplotlib ?
-2- Hierarchy of objects in matplotlib and hierarchy of object in seaborn? Their connection and theor detail?
+1- Why study seaborn when we have matplotlib ?
+
+2- Hierarchy of objects in matplotlib and hierarchy of object in seaborn? Their connection and their detail?
 	> Who seaborn allows to plot same graph using 2 different functions.
+
 3- Main classification of graphs in Seaborn (theory): (see the pic for reference in lecture floder)
 - Relational Plot 
 - Distribution Plot

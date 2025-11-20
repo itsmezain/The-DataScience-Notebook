@@ -1,7 +1,7 @@
 1- Facet plot:
 	i) Can you create facet rows even
-	ii) facet plot on different dataset and differnt plots
-	iii) using facet_col_wrap and other differnet parameters
+	ii) Facet graph on different plots and different datasets
+	ii) using facet_col_wrap and other differnet parameters
 	iv) different between subplot and facet plot
 
 2- 3d surface plot

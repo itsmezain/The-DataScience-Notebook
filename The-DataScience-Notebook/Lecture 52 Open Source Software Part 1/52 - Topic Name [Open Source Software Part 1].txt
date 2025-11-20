@@ -1,0 +1,15 @@
+1- What is Open Source Software? What is proprietry software? Open source Vs Proprietry software.
+
+2- What does it mean to contribute to the open source software and why should contribute to Open source?
+
+3- How you can contribute to the Open source Project?
+	i) Coding Based Contribution
+	ii) Non-coding based Contribution
+
+4- Required Skill for Open Source Contribution:
+	i) Tangible skills
+	ii) Non-tangible skills
+
+5- Roles in an Open Source Project? Anatomy of an Open Source Project
+
+6- Exploring an Open Source Project

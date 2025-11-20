@@ -1,0 +1,21 @@
+1- Step 0: Figure out in which project to contribute and what to contribute. Basic Workflow from froking the github repo until the merge in the originial repo in Open source Project.
+
+2- Example: Complete process of contributing to a Github Repo.
+
+3- Process in Contributing to the Open Source Project:
+	i) To decide what to do: Github issue and others
+	ii) Code the changes
+
+4- Nitish sir notes
+
+5- Explore the mlxtend libraires using various AI tools and by yourself and try to make one open source contribution.
+
+6- git command for exploring the contributors in the repo:
+	i) git shortlog
+	ii) git shortlog -n
+	iii) git shortlog -n -s
+	iv) git log --author="author_name"
+	v) git log --grep=regression
+	vi)git log --grep=bug
+
+7- Tips for the first Open Source Contribution

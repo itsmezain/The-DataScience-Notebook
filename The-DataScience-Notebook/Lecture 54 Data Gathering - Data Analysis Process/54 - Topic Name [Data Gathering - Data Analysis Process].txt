@@ -1,0 +1,35 @@
+1- Data Analysis Process (theory):
+	i) Data gathering
+	ii) Data Cleaning
+	iii) EDA
+
+2- ''Data Analysis Process:
+	i- Asking Questions
+	ii- Data Wrangling
+	iii- EDA
+	iv- Drawing Conclusions
+	v- Communicating Results:
+
+i- Asking Question? How can I ask better questions?
+ii- Data Wrangling: 
+	a) Gathering Data
+	b) Accessing Data like shape, info, describe, is_unique
+	c) Cleaning Data
+iii- EDA: Explore and Augmenting Data aka Feature Engineering
+iv- Drawing Conclusions: Machine Learning, Inferentail Statistics, Descriptive Statistics (for Data Analysis)
+v- Communicating Results
+Note: These 5 process are not linear hence you can jump from one step to another and go back and forth, basically trail and error
+
+3- Importing data:
+	i) read_csv() - What is csv, tsv file?
+	     - reading the csv file from local computer
+	     - Opening a csv file from an URL
+	     - reading data from tsv using sep parameter
+	     - if a csv do not have column heading then use names parameter
+	     - index_col parameter
+	     - header parameter
+	     - usecols
+	     - squeeze parameters
+	     - skiprows/nrows parameters
+	     - Encoding parameters (Most important)
+	     - skip bad lines
