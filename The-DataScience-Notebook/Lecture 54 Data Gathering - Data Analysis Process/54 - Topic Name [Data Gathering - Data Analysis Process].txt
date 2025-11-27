@@ -19,7 +19,7 @@ iii- EDA: Explore and Augmenting Data aka Feature Engineering
 iv- Drawing Conclusions: Machine Learning, Inferentail Statistics, Descriptive Statistics (for Data Analysis)
 v- Communicating Results
 Note: These 5 process are not linear hence you can jump from one step to another and go back and forth, basically trail and error
-
+----------------------------------------------------------------------------------
 3- Importing data:
 	i) read_csv() - What is csv, tsv file?
 	     - reading the csv file from local computer
@@ -33,3 +33,38 @@ Note: These 5 process are not linear hence you can jump from one step to another
 	     - skiprows/nrows parameters
 	     - Encoding parameters (Most important)
 	     - skip bad lines
+	     - on_bad_lines
+	     - dtype parameter
+	     - parse_date parameter
+	     - converters parameter
+	     - na_values parameter
+	     - chunks parameter
+
+	ii) read_excel, multiple_sheets, vs pd.ExcelFiles()
+
+	iii) reading data from the txt file
+
+4- read_json
+
+5- Importing data into the dataframe from the .sql file.
+	- send the note of the vs code into the chatgpt for notes
+	- difference between mysql.connector and sqlalchemy and when to use whom?
+	- difference between read_sql_query vs read_sql
+----------------------------------------------------------------------------------
+6- Exporting data (theory) to csv, excel, html, json, sql
+
+7- to_csv()
+8- to_excel():
+	- sheet_name 
+	- creaeting multiple sheet using ExcelWriter
+9- to_json, and its parameter scpeciall the orinet and why to_json is basd for making nested json structure according to your choice of struture and how mixing the to_json and json.dump to solve the problem
+10-to_sql()
+----------------------------------------------------------------------------------
+11- Importing data from API:
+	- What is APIs, explain with example
+	- From some data from the API and save it in the DataFrame then convert that DataFrame into the csv.
+	
+12- Data Scraping:
+	- Why we need it?
+	- learn request and beautifulsoup
+	- Scrap a website using beautifulsoup

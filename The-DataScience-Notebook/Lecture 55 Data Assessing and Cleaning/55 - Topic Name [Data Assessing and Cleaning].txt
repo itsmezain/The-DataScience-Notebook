@@ -1,0 +1,6 @@
+1- Data Wrangling (theory)
+	- Data gathering
+	- Data Assesing
+	- Data cleaning
+
+2- Type of unclean data

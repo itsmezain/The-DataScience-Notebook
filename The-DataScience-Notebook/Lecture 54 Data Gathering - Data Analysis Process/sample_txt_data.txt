@@ -1,0 +1,4 @@
+Name|Age|City|Salary
+Amit|25|Delhi|50000
+Priya|28|Mumbai|62000
+Rohan|22|Bangalore|45000
