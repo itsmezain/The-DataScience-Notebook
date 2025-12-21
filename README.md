@@ -46,7 +46,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/The-DataScience-Notebook.git
+   git clone https://github.com/itsmezain/The-DataScience-Notebook.git
    ```
 
 2. **Navigate to the Directory**
