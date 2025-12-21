@@ -3,4 +3,39 @@
 	- Data Assesing
 	- Data cleaning
 
-2- Type of unclean data
+2- Type of unclean data: i) Dirsty data ii) Messy Data
+
+3- What to do when you first got the dataset?
+	i) Write summary of the data
+	 make sense of data, one way to do it by writing the summary of the data, like people do in kaagle.
+	- you use google to understand the data or ask expert in the field teach you about the data
+
+	ii) Write column descriptions
+	iii) Add any additional information
+
+4- Data Assessment (theroy)
+	Types:
+		i) Manual => Looking through the data manually in google sheets
+		ii) Programmic => By using pandas functions such as head, tail, info(), describe() or sample()
+	
+	Steps:
+		i) Discover
+		ii) Documnet
+
+5- Data Quality Dimensions (messy data are of 4 types):
+	- completness, validlity, accuracy, consistency
+	- Order of severity: 
+		Completeness <- Validity <- Accuracy <- Consistency 
+
+6- Data Cleaning Order (theroy):
+	i. Quality -> Completeness
+	ii. Tidiness (messy data)
+	iii. Quality -> Validity
+	iv. Quality -> Accuracy
+	v. Quality -> Consistency
+Steps involved in data cleaning:
+		i) define
+		ii) Code
+		iii) test
+
+7- Cleaning a real world data using the Data Cleaning Order and its steps
