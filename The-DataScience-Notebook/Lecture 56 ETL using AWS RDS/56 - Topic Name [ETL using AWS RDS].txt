@@ -1,0 +1,10 @@
+1- OLTP and OLAP (theroy)
+
+2- Stroy: We are the founder of a startup named Campusx, and our problem statement is that we have to build a machine learning model which predict the best player for the DREAM 11 match(an app where user select their playing 11 for cricket match and get points) and you are a Data analyst your job is to extract the all previous match data from the AWS server and then apply transformation on your machine and then again load it to the AWS server, so your Data Science team can build a model on that data. 
+Transformation: We have to build a predictive model which predict best dream11points player, hence we require a dataset in which their are dream11points of all the previous match. Hence our data will look like below.
+
+3- As we do not have AWS RDS so we have to create a Database using SQL Workbench and then read the into the pandas and then using sqlalchemy export the data into the SQL server which will act as your AWS RDS (OLTP)
+
+4- Now we import the data using SQL.connector and pandas and then apply transformation.
+
+5- After applying transformation, we are gonna create a new database using the sqlalchemy and use the df.to_sql() function to laod the data into the SQL sever which will act as the OLAP 
