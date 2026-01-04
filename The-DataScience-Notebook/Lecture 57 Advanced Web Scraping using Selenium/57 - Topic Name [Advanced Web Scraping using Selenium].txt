@@ -1,0 +1,6 @@
+1- Selenium defination (theory)
+2- Learning selenium step by step
+
+3- Scraping Ajio Hats and Caps section by implementing slow infinte scolling in selenium
+
+4- Scarp the Smartplix mobile website with filters which exclude the out of stock and upcoming phones and also infinite click on 'load more' button.
