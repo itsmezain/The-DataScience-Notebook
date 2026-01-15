@@ -1,1 +1,7 @@
-1- Smartphone data assessing by manual and programmatic observation and note down observation.
+1- Smartphone dataset assessing by manual and programmatic observation and note down observation.
+
+2- Clean the dataset and using the noted observation
+
+3- Again assessing by manual and programmatic observation and note down observation.
+
+4- Again Clean the dataset and using the noted observation

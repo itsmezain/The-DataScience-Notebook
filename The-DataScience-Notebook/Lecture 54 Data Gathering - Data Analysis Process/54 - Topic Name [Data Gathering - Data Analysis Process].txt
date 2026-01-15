@@ -58,7 +58,7 @@ Note: These 5 process are not linear hence you can jump from one step to another
 	- sheet_name 
 	- creaeting multiple sheet using ExcelWriter
 9- to_json, and its parameter scpeciall the orinet and why to_json is basd for making nested json structure according to your choice of struture and how mixing the to_json and json.dump to solve the problem
-10-to_sql()
+10- to_sql()
 ----------------------------------------------------------------------------------
 11- Importing data from API:
 	- What is APIs, explain with example

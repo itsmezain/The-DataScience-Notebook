@@ -1,0 +1,29 @@
+1- What is EDA (theroy)? Why do EDA
+2- EDA steps: (theroy)
+	i) Column label => num, categorical, mixed
+	ii) Univariate analysis
+	iii) Bivariate analysis
+	iv) Multivariate analysis
+	v) Feature enngerring -> outliyer detection, missing value detection	
+	vi) Repeat 
+
+3- Steps of doing Univartiate Analysis on Numerical columns:
+	i) Descriptive statistics
+	ii) Visulizations
+	iii) Identifying Outliers and missing values
+	iv) Skewness
+	v) Conclusions
+
+4- Steps of doing Univariate Analysis on Categorical columns:
+	i) Descriptive Statistics
+	ii) Visualizations
+	iii) Missing Values
+	iv) Conclusion
+
+5- Steps of doing Bivariate Analysis
+
+6- Feature Engineering
+
+7- EDA on Feature Engineering
+
+8-  Multivariate Analysis
