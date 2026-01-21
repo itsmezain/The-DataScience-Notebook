@@ -1,0 +1,16 @@
+processor name not extracted
+--------------------------
+Tensor G3
+Unisoc
+Helio
+Unisoc 8910 FF-S
+Unisoc SC6531E
+--------------------------
+wrong processor name:
+--------------------------
+Octa core
+No Wifi
+--------------------------
+Missing procssor cores:
+--------------------------
+Nine-cores
