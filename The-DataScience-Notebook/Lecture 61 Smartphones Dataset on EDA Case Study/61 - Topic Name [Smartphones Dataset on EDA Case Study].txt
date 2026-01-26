@@ -1,0 +1,9 @@
+1- Do the EDA with the goal of making mobile price prediction model in the future.
+
+2- Do univariate analysis on all the columns.
+
+3- Do the correlation analysis with all columns and specically with price column
+
+4- Use KNN imputer to fill the misisng values
+
+5- Use one hot encodering to convert categories into the numberical values

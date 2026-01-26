@@ -1,0 +1,4 @@
+1- Convert number of cores in number
+2- extracting operating system name and its version in 2 differnnt columns
+3- Dropping unnecessary columns
+4- Changing dtype accordingly.

@@ -1,0 +1,1 @@
+1- Checking every columns in the Smartphone Dataset and checking wrong and null values in every columns.
