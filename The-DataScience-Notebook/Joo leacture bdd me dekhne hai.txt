@@ -1,5 +1,5 @@
 
-		Video number
+		Content Number
 	---------------------------------------------
 20 - How to build a portfolio website for Data Science (after the DSMP 1)
 56- Session on Resume Building (after the DSMP 1)
@@ -19,7 +19,8 @@ Tasks - 124, 125
 Tasks - 127, 128
 Tasks - 132, 133
 Tasks - 135, 136
+Tasks - 141,142
 -----------------------------------------------------------
 		Coding
 -----------------------------------------------------------
-Lecture 55 me data cleaning ke steps bache hai
+Lecture 55 - Data Cleaning is left

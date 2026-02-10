@@ -1,0 +1,21 @@
+1- What is Data and Importance of Data
+2- What are Databases and its application & uses?
+3- Properties of an ideal database.
+4- Types of Databases? Which you should use.
+5- Relational Databases.
+6- What is DBMS.
+7- Core Funtionalities of a DBMS.
+8- Pratical of MySQL on either jupyter notebook, MySQL workbench or ApacheXampp.
+
+9- In this lectureuse ApacheXampp: create database and then create table with 3 columns with primary key: then add columns 2-3 rows, search the values and also edit/update the values and also delete some values.
+
+10- Database Keys and types with examples
+
+11- Cardinality of Relationships
+
+12- Drawback of databases
+--------------------------------------
+2 blog:	
+	i) row vs columns oriented daabases: https://dataschool.com/data-modeling-101/row-vs-column-oriented-databases/
+
+	ii) what is redis
