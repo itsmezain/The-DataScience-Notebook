@@ -1,0 +1,23 @@
+1- Installation
+2- Relational databse model theory (Xampp and MySQL workbench architecture)
+3- What is SQL definition(theory)
+4- Types of SQL commands (theory)
+5- DDL command for Databses: Create and Drop
+6- DDL command for Tables: Create, Truncate and Drop
+7- Data Integrity and methods to ensure data intergrity (theory)
+8- Constraints in MYSQL:
+	i) NOT NUL
+	ii) UNIQUE(combo)
+		-> Another way of creating constraint
+	iii) PRIMARY KEY
+	iv) AUTO INCREMENT
+	v) CHECK
+	vi) DEFAULT
+	vii) FOREIGN KEY
+9- Rerential actions:
+	i) Restrict 
+	ii) Default
+	iii) Set Null
+	iv) Set Default 
+10- Alter Table Command: add, modify and drop
+11- Alter Table command for constrains: add, modify and drop constraints
