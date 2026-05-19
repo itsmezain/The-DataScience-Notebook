@@ -1,0 +1,9 @@
+1- Sorting in MySQL and all its possible variations -> questions on them from easy to professinal
+
+2- Limit with sorting with varations possible with questions
+
+3- Order of exection of the SQL query
+
+4- Grouping data in MySQL and all its possible variations -> questions on them from easy to professinal
+
+5- HAVING CLUASE in MySQL and all its possible variations -> questions on them from easy to professinal

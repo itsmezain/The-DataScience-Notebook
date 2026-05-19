@@ -1,0 +1,35 @@
+1- Insert command => with alll the possible varaitons to insert data
+
+2- How to import data in the mysql from csv and how to import from csv using mysql workbench
+
+3- Select all and where 1 useage:
+	- how to filter columns in select
+	- alias column name
+	- create expession using cols
+	- constants in the select
+	- Distinct in select, Distinct combination in select
+
+4- Where clause
+5- Between
+
+6- Query Execution Order
+7- IN and NOT IN
+
+8- UPDATE
+9- DELETE
+
+10- Types of functions in SQL: i) built-in ii) user-defined
+	i) built-in 2 types: scaler, aggregate(summary)
+
+11- Aggregate Functions:
+	- Max/ Min
+	- AVG
+	- SUM
+	- Count,
+	- Count(Distinct)
+	- STD, VAR
+
+12- Scaler Funcntions
+	- ABS
+	- Round
+	- CEIL/ FLOOR

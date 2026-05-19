@@ -5,6 +5,7 @@
 56- Session on Resume Building (after the DSMP 1)
 57 + GUI crash course on YT (after the pandas)
 62,63 => Basic python problems (do it, if you are free)
+158 => Soft Skills Masterclass
 -----------------------------------------------------------
 		Backlog
 -----------------------------------------------------------

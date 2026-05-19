@@ -1,0 +1,10 @@
+1- Introducton to Tabeau
+2- Concept of magnize, pages and articles in tabluaue i.e story,dashboard, worksheet
+
+3- Map:
+	Data import and connect 2 csv then plotting longitude and latitude of the world map with number of countries particating and edit the color and tooltip.
+
+4- Medal Tally:
+	Take medal and country and drap it to the col and rows and add filter in the medal and also add medal in the text.
+
+5- Combine 3 and 4 worksheet to create a dasshboard

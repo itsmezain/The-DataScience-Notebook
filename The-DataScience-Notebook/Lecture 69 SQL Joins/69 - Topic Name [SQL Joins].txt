@@ -1,0 +1,15 @@
+1- What are SQL joins?
+2- But why have data in multiple data when we can use one gaint table to store everything
+
+3- Cross Join explain with a examlpe step by step with psuedo code 
+4- Inner Join explain with a examlpe step by step with psuedo code 
+5- LEFT Join explain with a examlpe step by step with psuedo code 
+6- RIGHT Join explain with a examlpe step by step with psuedo code 
+
+7- SQL SET Operations: Union, Union All, Intersection and Except
+
+8- FULL Join explain with a examlpe step by step with psuedo code 
+9- SELF Join explain with a examlpe step by step with psuedo code 
+
+10- Joining on more than one columns
+11- Joining on more than one tables
