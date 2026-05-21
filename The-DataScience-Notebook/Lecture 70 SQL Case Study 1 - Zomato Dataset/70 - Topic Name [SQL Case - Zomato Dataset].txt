@@ -1,0 +1,1 @@
+1- Import the Zomato database and then draw the schema design of the dataset afterward just solve the given questions.
