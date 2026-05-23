@@ -1,0 +1,19 @@
+1-What is subquery?
+2- Types of Subqueries:
+	- based on result
+	- based on working
+3- Where can subqueries be used?
+
+4- Independed Subqueires - Scalar Subquery with examples.
+	- order by vs subquery? which is faster and better and why? Also explain in depth for the nooby, include the time complexity of both and with and without the index time complexity.
+
+5- Independed Subqueires - Row Subquery with examples.
+6- Independed Subqueires - Table Subquery with examples.
+7- Correlation subquery with examples and a examples showing steps of exection with in betwen steps.
+
+8- Using subquery with SELECT, why this is inefficient and why we need to use this.
+9- Using subquery with FROM
+10- Using subquery with HAVING
+11- Using subquery with INSERT
+12- Using subquery with UPDATE
+13- Using subquery with DELETE
