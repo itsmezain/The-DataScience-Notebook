@@ -1,0 +1,5 @@
+1- What are window function with examples and compare with them with the group by.
+
+2- Aggregate Function with OVER() and PARTITION by clause
+
+3- RANK/DENSE_RANK/ROW_NUMBER with example.

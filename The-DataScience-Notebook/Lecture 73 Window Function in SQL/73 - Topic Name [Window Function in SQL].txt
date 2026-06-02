@@ -1,0 +1,11 @@
+1- What is window function. How it is different from the group by.
+2-- Aggregate Function with OVER()
+3- PARTITION BY 
+4- Rank/ DENSE_RANK, ROW_NUMBER
+
+5- FIRST_VALUE 
+6-LAST_VALUSE 
+7- concept of frame in MYSQL with its types in detial
+7- N_VALUE
+8- How can we define window function clause like window w as (order by marks desc)
+9- LEAD and LAG
