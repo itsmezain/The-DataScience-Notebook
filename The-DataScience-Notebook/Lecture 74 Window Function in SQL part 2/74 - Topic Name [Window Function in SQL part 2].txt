@@ -1,2 +1,9 @@
 1- Where can we use windows functions?
 2- Ranking
+3- Cumulative sum
+4- Cumalative Average
+5- Running Average
+6- Percent of total
+7- Percent Change
+8- Percentiles & Quantiles [Not available in the MYSQL] and removing outliers using Interqualite range formuala.
+9- Segemenation

@@ -1,0 +1,46 @@
+1- Why use SQL for Data Cleaning in real world production scenirio when we already have pandas and numpy?
+2- Data Cleaning step are: Data Gathering, Data Asscessing, Data Cleaning
+
+3- There are 3 datatypes in SQL:
+	i) Numerical : int, deci
+	ii) Text: var
+	iii) Temporal: date, time, etc
+4- String Data Types:
+	i) CHAR
+	ii) VARCHAR
+	iii) TEXT
+	iv) MEDIUMTEXT
+	v) LONGTEXT
+
+5- Wildcards operator: % and _
+
+6- String Functions:
+	i) upper and lower
+	ii) concat and concat_ws
+	iii) substr
+	iv) replace
+	v) reverse
+	vi) char_length & length (diff)
+	vii) insert
+	viii) left and right
+	ix) repeat
+	x) Trim
+	xi) LTRIM and RTRIM
+	xii) substring_index
+	xiii) strcmp
+	xiv) locate
+	xv) lpad and rpad
+
+7- Data Cleaning on Laptop Dataset:
+	1. Create backup
+	2. Check number of rows
+	3. Check memory consumption for reference
+	4. Drop non important cols
+	5. Drop null values
+	6. Drop duplicates
+	7. Clean RAM -> change col data type
+	8. Clean weight -> change col type
+	9. ROUND price col and change to integer
+	10. Change the OpSys col
+	11. Gpu
+	12. Cpu
