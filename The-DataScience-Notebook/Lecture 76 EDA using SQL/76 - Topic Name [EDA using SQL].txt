@@ -1,0 +1,34 @@
+1- Data Cleaning:
+	i) Screen Resolution
+	ii) CPU model and generation
+	iii) Memory
+
+2- EDA - Laptop
+	i) univaraite => categorical, numerical
+	ii) bivaraite => (categorical, numerical), (categorical, categorical)
+	iii) missing data imputation, outliner, feature eng
+
+3- Use for these things: 
+i). head - tail - sample
+ii). for numerical cols
+    - 8 number summary[count,min,max,mean,std,q1,q2,q3]
+    - missing values
+    - outliers
+    - horizontal/vertical histograms
+iii) for categorical cols
+    - value counts - pie chart
+    - missing value
+iv) numerical - numerical
+    - side by side 8 number analysis--
+    - scatterplot
+    - correlation
+v) categorical-categorical
+    - contigency table 
+    - stacked bar chart
+vi) numerical-categorical
+    - compare distribution across categories
+vii) missing value treatment
+viii) feature engineering:
+   - ppi
+   - price_bracket
+1ix) one hot encoding
